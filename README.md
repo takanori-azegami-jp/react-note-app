@@ -1,2 +1,11 @@
 # react-note-app
-reactでノートアプリを作成する
+
+react でノートアプリを作成する
+
+## プロジェクト作成
+
+> npm create vite@latest
+
+## プロジェクト実行
+
+> npm start
