@@ -9,6 +9,13 @@ react でノートアプリを作成する
 ```
 
 ## プロジェクト実行
+```vim
+package.jsonファイルを編集
+"dev": "vite",
+↓
+"start": "vite",
+```
+
 ```bash
 > npm start
 ```
